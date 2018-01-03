@@ -1,5 +1,5 @@
 # Asp.Net-Core-com-MongoDb
-Projeto criado para mostrar o funcionamento do mongo dentro de uma aplicação asp.net core
+Projeto criado para mostrar o funcionamento do mongodb dentro de uma aplicação asp.net core
 
 Video Tutórial : https://www.youtube.com/watch?v=ObKxgUOLBHQ
 
